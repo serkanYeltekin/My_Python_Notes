@@ -1,6 +1,3 @@
-Tabii! 👇
-Aşağıdaki metni doğrudan `README.md` dosyana yapıştırabilirsin — senin şu anki Python + ML notlarına uygun, sade ve güzel bir sürüm:
-
 ---
 
 ````markdown
