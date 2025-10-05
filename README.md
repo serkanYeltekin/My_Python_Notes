@@ -1,5 +1,3 @@
----
-
 ````markdown
 # 🧠 Python & Machine Learning Çalışma Notlarım
 
