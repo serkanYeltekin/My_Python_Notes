@@ -75,4 +75,4 @@ Bu proje kişisel bir öğrenme alanıdır, ancak geri bildirim veya katkılar h
 İyileştirme fikirlerin varsa **issue** veya **pull request** gönderebilirsin. 🤝
 
 ```
----
+
