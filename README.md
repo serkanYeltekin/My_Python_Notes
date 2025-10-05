@@ -67,12 +67,3 @@ Hem temel hem de ileri seviye konularda pratik yapmayı, öğrendiklerimi düzen
 * SciPy
 * Jupyter Notebook
 
----
-
-## 📬 Katkı
-
-Bu proje kişisel bir öğrenme alanıdır, ancak geri bildirim veya katkılar her zaman değerlidir.
-İyileştirme fikirlerin varsa **issue** veya **pull request** gönderebilirsin. 🤝
-
-```
-
