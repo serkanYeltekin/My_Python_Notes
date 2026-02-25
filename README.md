@@ -19,32 +19,6 @@ Ayrıca Python fonksiyonları ve çeşitli pratik taktikler üzerine notlar da b
 
 ---
 
-## 🚀 Kullanım
-
-1. Depoyu klonla:
-   ```bash
-   git clone https://github.com/kullaniciadi/depo-adi.git
-````
-
-2. Klasöre gir:
-
-   ```bash
-   cd depo-adi
-   ```
-3. İlgini çeken klasördeki notları veya kodları çalıştır:
-
-   ```bash
-   jupyter notebook
-   ```
-
-   veya
-
-   ```bash
-   python dosya_adi.py
-   ```
-
----
-
 ## 🎯 Amaç
 
 Bu depo, Python ve veri bilimi öğrenme sürecimi belgelemek için oluşturuldu.
@@ -60,5 +34,3 @@ Hem temel hem de ileri seviye konularda pratik yapmayı, öğrendiklerimi düzen
 * Matplotlib
 * Seaborn
 * SciPy
-* Jupyter Notebook
-
